@@ -29,7 +29,7 @@
     "@tanstack/react-query": "5.56.2",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
-    "lucide-react": "0.441.0",
+    "lucide-react": "0.487.0",
     "next": "14.2.13",
     "next-themes": "^0.3.0",
     "prettier": "^3.3.2",
